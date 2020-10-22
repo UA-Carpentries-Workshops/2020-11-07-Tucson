@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "University of Arizona"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "online"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "University von Arizona"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
@@ -20,9 +20,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
 
-<h2 id="general">General Information Uwe</h2>
-
-<!-- VON HIER
+<h2 id="general">General Information</h2>
 
 {% comment %}
 INTRODUCTION
@@ -236,8 +234,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 </p>
 <hr/>
 {% endif %}
-
-BIS HIER -->
 
 {% comment %}
 SURVEYS - DO NOT EDIT SURVEY LINKS
