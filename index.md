@@ -20,7 +20,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 ---
 
 
-<h2 id="general">General Information Uwe</h2>
+<h2 id="general">General Information</h2>
 
 {% comment %}
 INTRODUCTION
